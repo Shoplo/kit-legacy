@@ -1,0 +1,27 @@
+{
+  "default": {
+    "global": {
+      "save_changes": "Zapisz zmiany",
+      "cancel": "Anuluj",
+      "close_window": "Zamknij okno",
+      "confirmation": "Potwierdzenie",
+      "warning": "Ostrzeżenie",
+      "unsaved_changes_confirm": "Masz niezapisane zmiany. Jesteś pewien, że chcesz opuścić tą stronę?",
+      "yes": "Tak",
+      "no": "Nie",
+      "select": "Wybierz",
+      "search": "Szukaj",
+      "ok": "OK",
+      "alert_save_settings": "Zapisz ustawienia by móc przejść dalej",
+      "go": "Idź"
+    },
+    "notifications": {
+      "changes_saved_success": "Zmiany zostały zapisane",
+      "changes_saved_error": "Zmiany nie zostały zapisane"
+    },
+    "action_bar": {
+      "selected_orders": "Zaznaczyłeś 1 zamówienie | Zaznaczyłeś {count} zamówienia",
+      "selected_many_orders": "Zaznaczyłeś {count} zamówień"
+    }
+  }
+}

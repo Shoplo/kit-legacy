@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShButton renders the component 1`] = `
+<div class="actions-bar buttons-bar active">
+  true
+  <div class="row align-middle">
+    <div class="sm-4 columns">
+      <div class="actions-bar-checkall"><input type="checkbox" id="action_bar_check_all" class="input-checkbox"> <label for="action_bar_check_all"></label> <label for="action_bar_check_all"></label></div>
+    </div>
+  </div>
+</div>
+`;
