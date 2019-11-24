@@ -1,6 +1,6 @@
 {
   "name": "@shoplo/kit",
-  "version": "0.1.70",
+  "version": "0.1.72",
   "main": "./dist/shoplo-kit.common.js",
   "private": false,
   "scripts": {
